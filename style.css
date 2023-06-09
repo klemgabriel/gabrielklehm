@@ -1,9 +1,10 @@
 html { 
-    background-color: #5b7838; 
+    background-color: #ffffff; 
     margin-left: 150px;
     }
 header{
     padding: 0px 30px 200px 0px;
+    color: #5b7838;
 }
  
 .cabeçalho-imagem{ width: 20%; } 
